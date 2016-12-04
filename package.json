@@ -1,0 +1,24 @@
+{
+  "name": "File Metadata Microservice",
+  "version": "1.0.0",
+  "description": "File Metadata Microservice for FCC challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fcmam5/file-metadata-microservice-fcc.git"
+  },
+  "author": "Fortas Abdeldjalil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fcmam5/file-metadata-microservice-fcc/issues"
+  },
+  "homepage": "https://github.com/Fcmam5/file-metadata-microservice-fccc#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  }
+}
